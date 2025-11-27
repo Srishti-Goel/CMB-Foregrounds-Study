@@ -1,0 +1,2 @@
+This repository currently considers a study on the ability of Gen-AI to replicate patches of the full-sky CMB Foregrounds  
+The toy models used include square images of fixed size containing a varying number of Gaussian Blobs. Refer to the file: 'Gaussian blobs\Creating_fake_dataset.ipynb' for examples. Alternatively, read reports of the project in the folder: 'Results or Images\Reports'
