@@ -1,0 +1,8 @@
+Results or Images/*png
+Results or Images/*jpg
+Results or Images/*jpeg
+*.npy
+*.sh
+*.pt
+Gaussian blobs/*.png
+Gaussian blobs/*.jpg
